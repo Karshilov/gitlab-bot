@@ -1,0 +1,21 @@
+{
+  "name": "gitlab-action-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "sqlite-async": "^1.1.1"
+  },
+  "dependencies": {
+    "node-schedule": "^2.0.0",
+    "ws": "^7.4.6"
+  }
+}
